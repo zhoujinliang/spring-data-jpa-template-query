@@ -1,0 +1,1 @@
+# spring-data-jpa-template-query
